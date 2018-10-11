@@ -1,5 +1,5 @@
 package Test;
 
 public class Test1 {
-	private String t1="ok";
+	private String t1="okok";
 }
